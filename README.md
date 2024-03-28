@@ -4,7 +4,8 @@
 
 ### Projets en cours
 - Chausette
-** Vide **
+  - ** Vide **
+Pour me contacter veuillez envoyer des signaux de fumée
 
 
 <!--
