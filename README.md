@@ -1,6 +1,9 @@
 # Github personnel 
 
-## En Cours 
+## En cours de formation à l'AFPA
+
+### Projets en cours
+- Chausette
 ** Vide **
 
 
